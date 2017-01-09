@@ -50,3 +50,5 @@ Slides are [here](https://docs.google.com/presentation/d/1IqxwDljS1HA5vYE24gpzkn
 const char * myS = [someString cStringUsingEncoding: NSUTF8StringEncoding];
 
 NSString *result12 = [NSString stringWithCString: myS encoding: NSUTF8StringEncoding];
+
+Everything is at this [git repo](git@github.com:philosopherdog/w1d1.git)
